@@ -1,0 +1,23 @@
+Testing DbFindNextFlight
+Using sample DB from createSampleDb
+
+Finding first available flight for QF409 from Monday 0705
+Found flight:
+QF409|SYD|MEL|Monday 0705|90
+
+Finding first available flight for QF409 from Monday 0706
+Found flight:
+QF409|SYD|MEL|Monday 0800|90
+
+Finding first available flight for JQ771 from Monday 1406
+Found flight:
+JQ771|ADL|MEL|Tuesday 1155|105
+
+Finding first available flight for QF530 from Wednesday 1200
+Found flight:
+QF530|SYD|BNE|Wednesday 1305|30
+
+Finding first available flight for QF530 from Sunday 1400
+Found flight:
+QF530|SYD|BNE|Monday 1305|30
+

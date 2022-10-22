@@ -1,0 +1,16 @@
+Testing DbInsertRecord
+
+Creating the DB
+
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+The record was inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0705|90
+The record was not inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0705|91
+The record was not inserted
+Attempting to insert: QF409|SYD|MEL|Monday 0706|90
+The record was inserted
+Attempting to insert: QF401|SYD|MEL|Monday 0705|90
+The record was inserted
+Attempting to insert: VA323|MEL|BNE|Sunday 1100|110
+The record was inserted
